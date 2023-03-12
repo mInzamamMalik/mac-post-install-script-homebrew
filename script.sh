@@ -13,5 +13,20 @@ brew install --cask stats
 brew install --cask middleclick
 brew install --cask vlc
 brew install --cask qbittorrent
+brew install --cask postman
+
+brew install nvm
+export NVM_DIR="$HOME/.nvm"
+  [ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"  # This loads nvm
+  [ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"
+
+nvm install --lts
+
+npm i -g firebase-tools
+npm i -g ngrok
+
+
+
+
 
 
