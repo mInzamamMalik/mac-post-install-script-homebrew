@@ -14,6 +14,7 @@ brew install --cask middleclick
 brew install --cask vlc
 brew install --cask qbittorrent
 brew install --cask postman
+brew install git
 
 brew install nvm
 export NVM_DIR="$HOME/.nvm"
