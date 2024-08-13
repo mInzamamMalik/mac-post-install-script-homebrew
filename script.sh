@@ -7,6 +7,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 brew install git
 brew install --cask smartgit
+brew install --cask sourcetree
 brew install --cask visual-studio-code
 brew install --cask google-chrome
 brew install --cask stats
@@ -24,6 +25,7 @@ nvm install --lts
 
 npm i -g firebase-tools
 npm i -g ngrok
+
 
 
 
