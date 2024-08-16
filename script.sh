@@ -17,6 +17,7 @@ brew install --cask qbittorrent
 brew install --cask postman
 brew install --cask cleanmymac
 brew install --cask cloudflare-warp
+brew install --cask slack
 
 brew install nvm
 export NVM_DIR="$HOME/.nvm"
