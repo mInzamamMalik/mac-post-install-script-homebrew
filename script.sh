@@ -1,4 +1,4 @@
-// install homebrew itself first:
+# install homebrew itself first:
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/malik/.zprofile # change malik to your username
