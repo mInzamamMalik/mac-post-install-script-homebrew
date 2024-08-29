@@ -18,6 +18,7 @@ brew install --cask postman
 brew install --cask cleanmymac
 brew install --cask cloudflare-warp
 brew install --cask slack
+brew install --cask mongodb-compass
 
 brew install nvm
 export NVM_DIR="$HOME/.nvm"
